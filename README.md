@@ -33,6 +33,8 @@
   <a href = "https://www.twitch.tv/dio_guitos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/dioguit0s/dioguit0s/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
