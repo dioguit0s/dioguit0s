@@ -11,10 +11,10 @@
 
 <div>
 <a href="https://github.com/dioguit0s/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dioguit0s&show_icons=true&theme=midnight-purple&count_private=true" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dioguit0s&&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/dioguit0s/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioguit0s&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dioguit0s&theme=midnight-purple" />
 </a>
 </div>
 
