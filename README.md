@@ -2,8 +2,8 @@
 
 
 
-- 💻 I’m currently learning NodeJS, but I'm looking to study .Net soon
-- 👨‍🎓 I’m currently studying by miself
+- 💻 I’m currently learning C#
+- 👨‍🎓 I’m currently studying on FESA
 - 📫 How to reach me: diogo.santos.rdrigues@gmail.com
 - 😄 Pronouns: He/Him
 - 🗺 Portuguese and English
