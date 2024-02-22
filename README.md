@@ -9,14 +9,6 @@
 - 🗺 Portuguese and English
 - 👻 Fun fact: I am a big fan of indie games and horror movies
 
-<div>
-<a href="https://github.com/dioguit0s/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dioguit0s&&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/dioguit0s/top-langs">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dioguit0s&theme=midnight-purple" />
-</a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
