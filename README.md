@@ -2,8 +2,8 @@
 
 
 
-- 💻 I’m currently learning C#
-- 👨‍🎓 I’m currently studying on FESA
+- 💻 familiar with C#, Java and SQL
+- 👨‍🎓 I’m currently studying Computer Engineering on FESA
 - 📫 How to reach me: diogo.santos.rdrigues@gmail.com
 - 😄 Pronouns: He/Him
 - 🗺 Portuguese and English
