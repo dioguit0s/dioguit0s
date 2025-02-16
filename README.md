@@ -15,8 +15,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="![image](https://github.com/user-attachments/assets/145ccc03-65d3-428c-bc60-46541dbf692b)
-" />
+  <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" />
 </div>
 
 ##
