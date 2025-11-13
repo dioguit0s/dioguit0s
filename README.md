@@ -2,7 +2,7 @@
 
 
 
-- 💻 familiar with C#, Java and SQL
+- 💻 familiar with C#, Java, APEX and SQL
 - 👨‍🎓 I’m currently studying Computer Engineering on FESA
 - 📫 How to reach me: diogo.santos.rdrigues@gmail.com
 - 😄 Pronouns: He/Him
