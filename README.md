@@ -47,8 +47,8 @@ I am a Computer Engineering student passionate about exploring technology across
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dioguit0s&show_icons=true&theme=radium&include_all_commits=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioguit0s&layout=compact&theme=radium" alt="Top Languages" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=dioguit0s&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dioguit0s&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
