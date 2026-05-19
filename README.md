@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Diogo Santos Rodrigues
 **Computer Engineering Student | Software Developer | Tech Enthusiast**
 
-I am a Computer Engineering student passionate about exploring technology across all its layers. I enjoy solving complex problems, ranging from coding software applications to experimenting with hardware.
+I am a Software Developer and a Computer Engineering student passionate about exploring technology across all its layers. I enjoy solving complex problems, ranging from coding software applications to experimenting with hardware.
 
 ---
 
